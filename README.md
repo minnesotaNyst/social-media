@@ -56,7 +56,7 @@ Video - In Progress
 
 ## Assist
 
-Craig Bennett | Clint Strange
+Craig Bennett | Clint Strange | Nathan Potts
 
 ## Acknowledgements
 
