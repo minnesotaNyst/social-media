@@ -48,24 +48,16 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 Download or clone the repo, then run `npm install` in the root directory to install the app's dependencies.
 
-[Back to Contents](#table-of-contents)
-
 ---
 
 ## Usage
 
 Video - In Progress
 
-[Back to Contents](#table-of-contents)
-
 ## Assist
 
 Craig Bennett | Clint Strange
 
-[Back to Contents](#table-of-contents)
-
 ## Acknowledgements
 
 I do not consider any of this soley my own work or original. I thank my class for their knowledge and assistance in helping guide me in the right direction.
-
-[Back to Contents](#table-of-contents)
