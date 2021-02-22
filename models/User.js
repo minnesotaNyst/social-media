@@ -5,6 +5,7 @@ const validateEmail = function (email) {
 	return re.test(email);
 };
 
+// criteria provided by the module requirements
 const UserSchema = new Schema(
 	{
 		userName: {
